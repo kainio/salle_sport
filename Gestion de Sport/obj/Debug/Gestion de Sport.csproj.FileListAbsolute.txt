@@ -1,0 +1,22 @@
+C:\Users\anass moukad\Desktop\Gestion de Sport\Gestion de Sport\bin\Debug\Gestion de Sport.exe.config
+C:\Users\anass moukad\Desktop\Gestion de Sport\Gestion de Sport\bin\Debug\Gestion de Sport.exe
+C:\Users\anass moukad\Desktop\Gestion de Sport\Gestion de Sport\bin\Debug\Gestion de Sport.pdb
+C:\Users\anass moukad\Desktop\Gestion de Sport\Gestion de Sport\obj\Debug\Gestion_de_Sport.Clients.resources
+C:\Users\anass moukad\Desktop\Gestion de Sport\Gestion de Sport\obj\Debug\Gestion_de_Sport.Personnels.resources
+C:\Users\anass moukad\Desktop\Gestion de Sport\Gestion de Sport\obj\Debug\Gestion_de_Sport.Form1.resources
+C:\Users\anass moukad\Desktop\Gestion de Sport\Gestion de Sport\obj\Debug\Gestion_de_Sport.Properties.Resources.resources
+C:\Users\anass moukad\Desktop\Gestion de Sport\Gestion de Sport\obj\Debug\Gestion de Sport.csproj.GenerateResource.Cache
+C:\Users\anass moukad\Desktop\Gestion de Sport\Gestion de Sport\obj\Debug\Gestion de Sport.exe
+C:\Users\anass moukad\Desktop\Gestion de Sport\Gestion de Sport\obj\Debug\Gestion de Sport.pdb
+C:\Users\anass moukad\Desktop\Gestion de Sport\Gestion de Sport\obj\Debug\Gestion de Sport.csprojResolveAssemblyReference.cache
+C:\Users\anass moukad\Desktop\Gestion salle de Sport\Gestion de Sport\bin\Debug\Gestion de Sport.exe.config
+C:\Users\anass moukad\Desktop\Gestion salle de Sport\Gestion de Sport\obj\Debug\Gestion de Sport.exe
+C:\Users\anass moukad\Desktop\Gestion salle de Sport\Gestion de Sport\obj\Debug\Gestion de Sport.pdb
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\bin\Debug\Gestion de Sport.exe.config
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion de Sport.pdb
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion de Sport.csprojResolveAssemblyReference.cache
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion_de_Sport.Properties.Resources.resources
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion de Sport.csproj.GenerateResource.Cache
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\bin\Debug\Gestion de Sport.exe
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\bin\Debug\Gestion de Sport.pdb
+C:\Users\Soufiane\Downloads\Soufiane El Kassib\Gestion de Sport\obj\Debug\Gestion de Sport.exe

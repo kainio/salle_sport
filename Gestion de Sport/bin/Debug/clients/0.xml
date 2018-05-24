@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Client xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nom>El kassib</Nom>
+  <Prenom>Soufiane</Prenom>
+  <Cin>AA12365</Cin>
+  <Datenaissance>2018-02-01T19:36:55</Datenaissance>
+  <Sport>Musculation </Sport>
+  <Sexe>Masculin</Sexe>
+  <Dateinscription>2018-05-23T23:23:34.219624+01:00</Dateinscription>
+  <Numeroinscription>0</Numeroinscription>
+</Client>
